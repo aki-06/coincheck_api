@@ -1,0 +1,1 @@
+coincheckのAPIでBTCの価格を取得するだけです。
